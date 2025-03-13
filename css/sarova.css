@@ -1,3 +1,8 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Spicy+Rice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+
 .hero{
     background: url("../images/b2.jpg");
     background-repeat: no-repeat;
@@ -8,3 +13,38 @@
 .social{
     width: 32px;
 }
+
+.dancing-script{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.spicy-rice-regular {
+  font-family: "Spicy Rice", serif;
+  font-style: normal;
+}
+
+.special-red{
+    color: #B13031;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
